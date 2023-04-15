@@ -14,7 +14,7 @@ public class Config {
         browserSize = "1920x1080";
         screenshots = false;
         headless = false;
-        remote = "http://localhost:8080/";
+        //remote = "http://localhost:8080/";
     }
 
     @AfterAll
